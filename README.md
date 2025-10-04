@@ -63,5 +63,22 @@ cd front
 npm install
 npm start
 ```
+---------------
+Sample outputs:
+---------------
+** LOGIN PAGE
 
+<img width="1363" height="726" alt="Screenshot 2025-10-04 071648" src="https://github.com/user-attachments/assets/b4993578-4fea-4733-b31f-35c77ad491ad" />
+
+** VEHICLE LIST PAGE
+
+<img width="1365" height="726" alt="Screenshot 2025-10-04 071618" src="https://github.com/user-attachments/assets/4e268216-430b-47ca-b541-2e1a3fda1b1e" />
+
+** ADD VEHICLE
+
+<img width="1359" height="727" alt="Screenshot 2025-10-04 071814" src="https://github.com/user-attachments/assets/b72e5c73-03b0-4515-9030-8cf29f407e6c" />
+
+** DATABASE (SQLite)
+
+<img width="1359" height="731" alt="Screenshot 2025-10-04 071558" src="https://github.com/user-attachments/assets/64220789-b2cd-4a37-a9dc-327dc89e74f8" />
 
